@@ -1,0 +1,124 @@
+C:\Users\Orozco\Desktop\Seguridad Informatica\Segurity\WinLogin\WinLogin\bin\Debug\WinLogin.exe.config
+C:\Users\Orozco\Desktop\Seguridad Informatica\Segurity\WinLogin\WinLogin\bin\Debug\WinLogin.exe
+C:\Users\Orozco\Desktop\Seguridad Informatica\Segurity\WinLogin\WinLogin\bin\Debug\WinLogin.pdb
+C:\Users\Orozco\Desktop\Seguridad Informatica\Segurity\WinLogin\WinLogin\obj\Debug\WinLogin.csproj.AssemblyReference.cache
+C:\Users\Orozco\Desktop\Seguridad Informatica\Segurity\WinLogin\WinLogin\obj\Debug\WinLogin.Properties.Resources.resources
+C:\Users\Orozco\Desktop\Seguridad Informatica\Segurity\WinLogin\WinLogin\obj\Debug\WinLogin.csproj.GenerateResource.cache
+C:\Users\Orozco\Desktop\Seguridad Informatica\Segurity\WinLogin\WinLogin\obj\Debug\WinLogin.csproj.CoreCompileInputs.cache
+C:\Users\Orozco\Desktop\Seguridad Informatica\Segurity\WinLogin\WinLogin\obj\Debug\WinLogin.exe
+C:\Users\Orozco\Desktop\Seguridad Informatica\Segurity\WinLogin\WinLogin\obj\Debug\WinLogin.pdb
+C:\Users\Orozco\Desktop\Seguridad Informatica\Segurity\WinLogin\WinLogin\obj\Debug\WinLogin.Login.resources
+C:\Users\Orozco\Desktop\Seguridad Informatica\Segurity\WinLogin\WinLogin\obj\Debug\WinLogin.Registro.resources
+C:\Users\Orozco\Desktop\Segurity\WinLogin\WinLogin\bin\Debug\WinLogin.exe.config
+C:\Users\Orozco\Desktop\Segurity\WinLogin\WinLogin\bin\Debug\WinLogin.exe
+C:\Users\Orozco\Desktop\Segurity\WinLogin\WinLogin\bin\Debug\WinLogin.pdb
+C:\Users\Orozco\Desktop\Segurity\WinLogin\WinLogin\bin\Debug\BL.dll
+C:\Users\Orozco\Desktop\Segurity\WinLogin\WinLogin\bin\Debug\EL.dll
+C:\Users\Orozco\Desktop\Segurity\WinLogin\WinLogin\bin\Debug\EntityFramework.dll
+C:\Users\Orozco\Desktop\Segurity\WinLogin\WinLogin\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Orozco\Desktop\Segurity\WinLogin\WinLogin\bin\Debug\BL.pdb
+C:\Users\Orozco\Desktop\Segurity\WinLogin\WinLogin\bin\Debug\BL.dll.config
+C:\Users\Orozco\Desktop\Segurity\WinLogin\WinLogin\bin\Debug\EL.pdb
+C:\Users\Orozco\Desktop\Segurity\WinLogin\WinLogin\bin\Debug\EL.dll.config
+C:\Users\Orozco\Desktop\Segurity\WinLogin\WinLogin\bin\Debug\EntityFramework.xml
+C:\Users\Orozco\Desktop\Segurity\WinLogin\WinLogin\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Orozco\Desktop\Segurity\WinLogin\WinLogin\obj\Debug\WinLogin.csproj.AssemblyReference.cache
+C:\Users\Orozco\Desktop\Segurity\WinLogin\WinLogin\obj\Debug\AdmiPermisos.AdmiPermisos.resources
+C:\Users\Orozco\Desktop\Segurity\WinLogin\WinLogin\obj\Debug\AdmiUsuario.AdmiUsuario.resources
+C:\Users\Orozco\Desktop\Segurity\WinLogin\WinLogin\obj\Debug\WinLogin.Login.resources
+C:\Users\Orozco\Desktop\Segurity\WinLogin\WinLogin\obj\Debug\Menu.Menu.resources
+C:\Users\Orozco\Desktop\Segurity\WinLogin\WinLogin\obj\Debug\WinLogin.Properties.Resources.resources
+C:\Users\Orozco\Desktop\Segurity\WinLogin\WinLogin\obj\Debug\WinLogin.Registro.resources
+C:\Users\Orozco\Desktop\Segurity\WinLogin\WinLogin\obj\Debug\WinLogin.csproj.GenerateResource.cache
+C:\Users\Orozco\Desktop\Segurity\WinLogin\WinLogin\obj\Debug\WinLogin.csproj.CoreCompileInputs.cache
+C:\Users\Orozco\Desktop\Segurity\WinLogin\WinLogin\obj\Debug\WinLogin.csproj.CopyComplete
+C:\Users\Orozco\Desktop\Segurity\WinLogin\WinLogin\obj\Debug\WinLogin.exe
+C:\Users\Orozco\Desktop\Segurity\WinLogin\WinLogin\obj\Debug\WinLogin.pdb
+C:\Users\m_ang\OneDrive\Escritorio\SegurityInformatic\Segurity\WinLogin\WinLogin\bin\Debug\WinLogin.exe.config
+C:\Users\m_ang\OneDrive\Escritorio\SegurityInformatic\Segurity\WinLogin\WinLogin\bin\Debug\WinLogin.exe
+C:\Users\m_ang\OneDrive\Escritorio\SegurityInformatic\Segurity\WinLogin\WinLogin\bin\Debug\WinLogin.pdb
+C:\Users\m_ang\OneDrive\Escritorio\SegurityInformatic\Segurity\WinLogin\WinLogin\bin\Debug\BL.dll
+C:\Users\m_ang\OneDrive\Escritorio\SegurityInformatic\Segurity\WinLogin\WinLogin\bin\Debug\EL.dll
+C:\Users\m_ang\OneDrive\Escritorio\SegurityInformatic\Segurity\WinLogin\WinLogin\bin\Debug\EntityFramework.dll
+C:\Users\m_ang\OneDrive\Escritorio\SegurityInformatic\Segurity\WinLogin\WinLogin\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\m_ang\OneDrive\Escritorio\SegurityInformatic\Segurity\WinLogin\WinLogin\bin\Debug\DAL.dll
+C:\Users\m_ang\OneDrive\Escritorio\SegurityInformatic\Segurity\WinLogin\WinLogin\bin\Debug\BL.pdb
+C:\Users\m_ang\OneDrive\Escritorio\SegurityInformatic\Segurity\WinLogin\WinLogin\bin\Debug\BL.dll.config
+C:\Users\m_ang\OneDrive\Escritorio\SegurityInformatic\Segurity\WinLogin\WinLogin\bin\Debug\EL.pdb
+C:\Users\m_ang\OneDrive\Escritorio\SegurityInformatic\Segurity\WinLogin\WinLogin\bin\Debug\EL.dll.config
+C:\Users\m_ang\OneDrive\Escritorio\SegurityInformatic\Segurity\WinLogin\WinLogin\bin\Debug\EntityFramework.xml
+C:\Users\m_ang\OneDrive\Escritorio\SegurityInformatic\Segurity\WinLogin\WinLogin\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\m_ang\OneDrive\Escritorio\SegurityInformatic\Segurity\WinLogin\WinLogin\bin\Debug\DAL.pdb
+C:\Users\m_ang\OneDrive\Escritorio\SegurityInformatic\Segurity\WinLogin\WinLogin\bin\Debug\DAL.dll.config
+C:\Users\m_ang\OneDrive\Escritorio\SegurityInformatic\Segurity\WinLogin\WinLogin\obj\Debug\WinLogin.csproj.AssemblyReference.cache
+C:\Users\m_ang\OneDrive\Escritorio\SegurityInformatic\Segurity\WinLogin\WinLogin\obj\Debug\WinLogin.csproj.SuggestedBindingRedirects.cache
+C:\Users\m_ang\OneDrive\Escritorio\SegurityInformatic\Segurity\WinLogin\WinLogin\obj\Debug\AdmiPermisos.AdmiPermisos.resources
+C:\Users\m_ang\OneDrive\Escritorio\SegurityInformatic\Segurity\WinLogin\WinLogin\obj\Debug\AdmiUsuario.AdmiUsuario.resources
+C:\Users\m_ang\OneDrive\Escritorio\SegurityInformatic\Segurity\WinLogin\WinLogin\obj\Debug\WinLogin.Login.resources
+C:\Users\m_ang\OneDrive\Escritorio\SegurityInformatic\Segurity\WinLogin\WinLogin\obj\Debug\WinLogin.Properties.Resources.resources
+C:\Users\m_ang\OneDrive\Escritorio\SegurityInformatic\Segurity\WinLogin\WinLogin\obj\Debug\WinLogin.Registro.resources
+C:\Users\m_ang\OneDrive\Escritorio\SegurityInformatic\Segurity\WinLogin\WinLogin\obj\Debug\WinLogin.csproj.GenerateResource.cache
+C:\Users\m_ang\OneDrive\Escritorio\SegurityInformatic\Segurity\WinLogin\WinLogin\obj\Debug\WinLogin.csproj.CoreCompileInputs.cache
+C:\Users\m_ang\OneDrive\Escritorio\SegurityInformatic\Segurity\WinLogin\WinLogin\obj\Debug\WinLogin.csproj.CopyComplete
+C:\Users\m_ang\OneDrive\Escritorio\SegurityInformatic\Segurity\WinLogin\WinLogin\obj\Debug\WinLogin.exe
+C:\Users\m_ang\OneDrive\Escritorio\SegurityInformatic\Segurity\WinLogin\WinLogin\obj\Debug\WinLogin.pdb
+C:\Users\m_ang\OneDrive\Escritorio\SegurityInformatic\Segurity\WinLogin\WinLogin\obj\Debug\WinLogin.Menu.resources
+C:\Users\m_ang\OneDrive\Escritorio\SegurityInformatic\Segurity\WinLogin\WinLogin\obj\Debug\WinLogin.AdmiPermisos.resources
+C:\Users\m_ang\OneDrive\Escritorio\SegurityInformatic\Segurity\WinLogin\WinLogin\obj\Debug\WinLogin.AdmiUsuario.resources
+C:\Users\Orozco\Downloads\WinLogin\WinLogin\WinLogin\bin\Debug\WinLogin.exe.config
+C:\Users\Orozco\Downloads\WinLogin\WinLogin\WinLogin\bin\Debug\WinLogin.exe
+C:\Users\Orozco\Downloads\WinLogin\WinLogin\WinLogin\bin\Debug\WinLogin.pdb
+C:\Users\Orozco\Downloads\WinLogin\WinLogin\WinLogin\bin\Debug\BL.dll
+C:\Users\Orozco\Downloads\WinLogin\WinLogin\WinLogin\bin\Debug\EL.dll
+C:\Users\Orozco\Downloads\WinLogin\WinLogin\WinLogin\bin\Debug\EntityFramework.dll
+C:\Users\Orozco\Downloads\WinLogin\WinLogin\WinLogin\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Orozco\Downloads\WinLogin\WinLogin\WinLogin\bin\Debug\DAL.dll
+C:\Users\Orozco\Downloads\WinLogin\WinLogin\WinLogin\bin\Debug\BL.pdb
+C:\Users\Orozco\Downloads\WinLogin\WinLogin\WinLogin\bin\Debug\BL.dll.config
+C:\Users\Orozco\Downloads\WinLogin\WinLogin\WinLogin\bin\Debug\EL.pdb
+C:\Users\Orozco\Downloads\WinLogin\WinLogin\WinLogin\bin\Debug\EL.dll.config
+C:\Users\Orozco\Downloads\WinLogin\WinLogin\WinLogin\bin\Debug\EntityFramework.xml
+C:\Users\Orozco\Downloads\WinLogin\WinLogin\WinLogin\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Orozco\Downloads\WinLogin\WinLogin\WinLogin\bin\Debug\DAL.pdb
+C:\Users\Orozco\Downloads\WinLogin\WinLogin\WinLogin\bin\Debug\DAL.dll.config
+C:\Users\Orozco\Downloads\WinLogin\WinLogin\WinLogin\obj\Debug\WinLogin.csproj.AssemblyReference.cache
+C:\Users\Orozco\Downloads\WinLogin\WinLogin\WinLogin\obj\Debug\WinLogin.AdmiPermisos.resources
+C:\Users\Orozco\Downloads\WinLogin\WinLogin\WinLogin\obj\Debug\WinLogin.AdmiUsuario.resources
+C:\Users\Orozco\Downloads\WinLogin\WinLogin\WinLogin\obj\Debug\WinLogin.Login.resources
+C:\Users\Orozco\Downloads\WinLogin\WinLogin\WinLogin\obj\Debug\WinLogin.Menu.resources
+C:\Users\Orozco\Downloads\WinLogin\WinLogin\WinLogin\obj\Debug\WinLogin.Properties.Resources.resources
+C:\Users\Orozco\Downloads\WinLogin\WinLogin\WinLogin\obj\Debug\WinLogin.Registro.resources
+C:\Users\Orozco\Downloads\WinLogin\WinLogin\WinLogin\obj\Debug\WinLogin.csproj.GenerateResource.cache
+C:\Users\Orozco\Downloads\WinLogin\WinLogin\WinLogin\obj\Debug\WinLogin.csproj.CoreCompileInputs.cache
+C:\Users\Orozco\Downloads\WinLogin\WinLogin\WinLogin\obj\Debug\WinLogin.csproj.CopyComplete
+C:\Users\Orozco\Downloads\WinLogin\WinLogin\WinLogin\obj\Debug\WinLogin.exe
+C:\Users\Orozco\Downloads\WinLogin\WinLogin\WinLogin\obj\Debug\WinLogin.pdb
+C:\Users\Orozco\Desktop\WinLogin\WinLogin\WinLogin\bin\Debug\WinLogin.exe.config
+C:\Users\Orozco\Desktop\WinLogin\WinLogin\WinLogin\bin\Debug\WinLogin.exe
+C:\Users\Orozco\Desktop\WinLogin\WinLogin\WinLogin\bin\Debug\WinLogin.pdb
+C:\Users\Orozco\Desktop\WinLogin\WinLogin\WinLogin\bin\Debug\BL.dll
+C:\Users\Orozco\Desktop\WinLogin\WinLogin\WinLogin\bin\Debug\EL.dll
+C:\Users\Orozco\Desktop\WinLogin\WinLogin\WinLogin\bin\Debug\EntityFramework.dll
+C:\Users\Orozco\Desktop\WinLogin\WinLogin\WinLogin\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Orozco\Desktop\WinLogin\WinLogin\WinLogin\bin\Debug\DAL.dll
+C:\Users\Orozco\Desktop\WinLogin\WinLogin\WinLogin\bin\Debug\BL.pdb
+C:\Users\Orozco\Desktop\WinLogin\WinLogin\WinLogin\bin\Debug\BL.dll.config
+C:\Users\Orozco\Desktop\WinLogin\WinLogin\WinLogin\bin\Debug\EL.pdb
+C:\Users\Orozco\Desktop\WinLogin\WinLogin\WinLogin\bin\Debug\EL.dll.config
+C:\Users\Orozco\Desktop\WinLogin\WinLogin\WinLogin\bin\Debug\EntityFramework.xml
+C:\Users\Orozco\Desktop\WinLogin\WinLogin\WinLogin\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Orozco\Desktop\WinLogin\WinLogin\WinLogin\bin\Debug\DAL.pdb
+C:\Users\Orozco\Desktop\WinLogin\WinLogin\WinLogin\bin\Debug\DAL.dll.config
+C:\Users\Orozco\Desktop\WinLogin\WinLogin\WinLogin\obj\Debug\WinLogin.csproj.AssemblyReference.cache
+C:\Users\Orozco\Desktop\WinLogin\WinLogin\WinLogin\obj\Debug\WinLogin.AdmiPermisos.resources
+C:\Users\Orozco\Desktop\WinLogin\WinLogin\WinLogin\obj\Debug\WinLogin.AdmiUsuario.resources
+C:\Users\Orozco\Desktop\WinLogin\WinLogin\WinLogin\obj\Debug\WinLogin.Desbloquear.resources
+C:\Users\Orozco\Desktop\WinLogin\WinLogin\WinLogin\obj\Debug\WinLogin.Login.resources
+C:\Users\Orozco\Desktop\WinLogin\WinLogin\WinLogin\obj\Debug\WinLogin.Menu.resources
+C:\Users\Orozco\Desktop\WinLogin\WinLogin\WinLogin\obj\Debug\WinLogin.Properties.Resources.resources
+C:\Users\Orozco\Desktop\WinLogin\WinLogin\WinLogin\obj\Debug\WinLogin.Registro.resources
+C:\Users\Orozco\Desktop\WinLogin\WinLogin\WinLogin\obj\Debug\WinLogin.csproj.GenerateResource.cache
+C:\Users\Orozco\Desktop\WinLogin\WinLogin\WinLogin\obj\Debug\WinLogin.csproj.CoreCompileInputs.cache
+C:\Users\Orozco\Desktop\WinLogin\WinLogin\WinLogin\obj\Debug\WinLogin.csproj.CopyComplete
+C:\Users\Orozco\Desktop\WinLogin\WinLogin\WinLogin\obj\Debug\WinLogin.exe
+C:\Users\Orozco\Desktop\WinLogin\WinLogin\WinLogin\obj\Debug\WinLogin.pdb
